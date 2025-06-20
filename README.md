@@ -7,7 +7,8 @@
 
 
 ## SQL Database Design
-
+`SELECT *
+FROM MarketFlash`
 
 ## Tableau Workbook
 
